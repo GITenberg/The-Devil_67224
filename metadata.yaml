@@ -1,0 +1,43 @@
+_repo: The-Devil_67224
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Maude, Aylmer
+    birthdate: 1858
+    deathdate: 1938
+    gutenberg_agent_id: '4589'
+    url: http://www.gutenberg.org/2009/agents/4589
+    wikipedia: https://en.wikipedia.org/wiki/Aylmer_and_Louise_Maude
+creator:
+  author:
+    agent_name: Tolstoy, Leo, graf
+    aliases:
+    - Tolstoi, Leo
+    - Tolstoy, Lev N.
+    - Tolstoï, Léon
+    - Tolstoy, Graf Leo
+    - Толстой, Лев Николаевич
+    birthdate: 1828
+    deathdate: 1910
+    gutenberg_agent_id: '136'
+    url: http://www.gutenberg.org/2009/agents/136
+    wikipedia: https://en.wikipedia.org/wiki/Leo_Tolstoy
+description: ''
+gutenberg_issued: '2022-01-22'
+identifiers:
+  gutenberg: '67224'
+language: en
+pgterms:marc904: https://catalog.hathitrust.org/Record/006148090
+pgterms:marc905: 20220105072044tolstoy
+pgterms:marc906: '1926'
+pgterms:marc907: UK
+production_note: Laura Natal Rodrigues (Images generously made available by Hathi
+  Trust Digital Library.)
+publication_note: UK :George Allen & Unwin Ltd.,1926.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: The Devil
+url: http://www.gutenberg.org/ebooks/67224
