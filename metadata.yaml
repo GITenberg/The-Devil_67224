@@ -8,6 +8,9 @@ contributor:
     gutenberg_agent_id: '4589'
     url: http://www.gutenberg.org/2009/agents/4589
     wikipedia: https://en.wikipedia.org/wiki/Aylmer_and_Louise_Maude
+covers:
+- cover_type: archival
+  image_path: 67224-h/images/devil_cover.jpg
 creator:
   author:
     agent_name: Tolstoy, Leo, graf
@@ -23,6 +26,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/136
     wikipedia: https://en.wikipedia.org/wiki/Leo_Tolstoy
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/67224#The-Devil
 gutenberg_issued: '2022-01-22'
 identifiers:
   gutenberg: '67224'
